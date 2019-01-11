@@ -1,0 +1,59 @@
+---------------------------------------
+			YANNICK FABRE
+---------------------------------------
+(1h) - Changer le "conteneur de translation en x" et mettre à zéro le param de recupParamsCommuns().
+(1h30)- Aligner les radios butt pareil dans tous les onglets.
+(30min)- Corriger les spinsBox qui ne bougent pas et infos bulle ?
+(10min)- Mettre les spinBox en english pour l'autorisation du "."
+- Ajouter des commentaires dans le code.
+
+---------------------------------------
+			CORBIN COUSIN
+---------------------------------------
+(1h)- Ajout courbes MATHS.
+(1h)- Ajout courbes GEO.
+- Ajouter des commentaires dans le code.
+
+---------------------------------------
+			MICKAPIERRE
+---------------------------------------
+- Ajouter des commentaires dans le code.
+
+---------------------------------------
+			PERSONNE
+---------------------------------------
+(2h)- Récupérer les paramètres de la formes selectionnée dans les zones de texte TRIGOS
+(1h)- Récupérer les paramètres de la formes selectionnée dans les zones de texte MATHS
+(1h)- Récupérer les paramètres de la formes selectionnée dans les zones de texte GEO
+
+(2h)- Modifier une forme existante avec les paramètres modifiés TRIGOS
+(1h)- Modifier une forme existante avec les paramètres modifiés MATHS
+(1h)- Modifier une forme existante avec les paramètres modifiés GEO
+
+(1h)- Supprimer une forme dans la liste avec "-" TRIGOS
+(1h)- Supprimer une forme dans la liste avec "-" MATHS
+(1h)- Supprimer une forme dans la liste avec "-" GEO
+
+(1h)- Supprimer les repères dans les listes. (Nous pouvons mettre se repère en information dans un label par exemple)
+
+(2h)- Affichage des formes dans la fenetre graphique :
+	- Affiche la derniere courbe crée
+	- Le boutton "afficher" affiche toutes les courbes (By Corbin et Papi Cute) 
+
+(30min)- Faire la maquette 
+(4h)- Faire l'UML
+	
+---------------------------------------
+				BONUS
+---------------------------------------
+- Ajout du liste multi selections.
+- Changer couleurs fenetres pour Fabre
+- Yannick doit remettre le logo.
+(4h)- Avenants
+
+---------------------------------------
+	PLANNING (38H) <12h par groupe>
+---------------------------------------
+Lundi soir ==> Terminer le code
+Mardi soir ==> UML + Maquette
+Mercredi soir ==> Termine Avenants
