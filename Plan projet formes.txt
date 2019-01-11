@@ -42,7 +42,8 @@
 
 (30min)- Faire la maquette 
 (4h)- Faire l'UML
-	
+
+(10min)- Fusionner les méthodes viderMath() et effacerMath() etc... ?
 ---------------------------------------
 				BONUS
 ---------------------------------------
