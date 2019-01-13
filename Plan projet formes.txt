@@ -1,26 +1,10 @@
 ---------------------------------------
 			YANNICK FABRE
 ---------------------------------------
-(1h) - Changer le "conteneur de translation en x" et mettre à zéro le param de recupParamsCommuns().
-(1h30)- Aligner les radios butt pareil dans tous les onglets.
-(30min)- Corriger les spinsBox qui ne bougent pas et infos bulle ?
-(10min)- Mettre les spinBox en english pour l'autorisation du "."
 - Ajouter des commentaires dans le code.
 
 ---------------------------------------
 			CORBIN COUSIN
----------------------------------------
-(1h)- Ajout courbes MATHS.
-(1h)- Ajout courbes GEO.
-- Ajouter des commentaires dans le code.
-
----------------------------------------
-			MICKAPIERRE
----------------------------------------
-- Ajouter des commentaires dans le code.
-
----------------------------------------
-			PERSONNE
 ---------------------------------------
 (2h)- Récupérer les paramètres de la formes selectionnée dans les zones de texte TRIGOS
 (1h)- Récupérer les paramètres de la formes selectionnée dans les zones de texte MATHS
@@ -34,6 +18,16 @@
 (1h)- Supprimer une forme dans la liste avec "-" MATHS
 (1h)- Supprimer une forme dans la liste avec "-" GEO
 
+- Ajouter des commentaires dans le code.
+
+---------------------------------------
+			MICKAPIERRE
+---------------------------------------
+- Ajouter des commentaires dans le code.
+
+---------------------------------------
+			PERSONNE
+---------------------------------------
 (1h)- Supprimer les repères dans les listes. (Nous pouvons mettre se repère en information dans un label par exemple)
 
 (2h)- Affichage des formes dans la fenetre graphique :
