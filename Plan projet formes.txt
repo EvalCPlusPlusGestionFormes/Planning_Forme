@@ -14,10 +14,6 @@
 (1h)- Modifier une forme existante avec les paramètres modifiés MATHS
 (1h)- Modifier une forme existante avec les paramètres modifiés GEO
 
-(1h)- Supprimer une forme dans la liste avec "-" TRIGOS
-(1h)- Supprimer une forme dans la liste avec "-" MATHS
-(1h)- Supprimer une forme dans la liste avec "-" GEO
-
 - Ajouter des commentaires dans le code.
 
 ---------------------------------------
